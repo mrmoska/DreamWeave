@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.w {
+  width: 100%;
+  height: 400px;
+  background-color: aqua;
+}
+a {
+  display: none;
+}
+button {
+  color: red;
+}
